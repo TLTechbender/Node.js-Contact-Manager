@@ -1,0 +1,19 @@
+{
+  "name": "node.js-contact-manager",
+  "version": "1.0.0",
+  "description": "My first backend",
+  "main": "start.js",
+  "scripts": {
+    "test": "node start.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TLTechbender/Node.js-Contact-Manager.git"
+  },
+  "author": "Bolarinwa Paul Ayomide",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TLTechbender/Node.js-Contact-Manager/issues"
+  },
+  "homepage": "https://github.com/TLTechbender/Node.js-Contact-Manager#readme"
+}
